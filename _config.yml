@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         kramdown
+
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Saeid Amiri
+tagline:          ''
+description:      ''
+url:              http://saeidamiri1.github.io
+
+
+github_username:  saeidamiri1
+permalink: /:year/:month/:title.html
+excerpt_separator: <!--more-->
+
+
+
+# Dependencies
+gems:                [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
