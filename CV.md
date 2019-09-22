@@ -11,43 +11,24 @@ Saeid Amiri has experiences of working in academia and collaborating with non-ac
  Education
 </h3>
 <p>
-2009-11/11/2011: Ph.d, Statistics, Uppsala University,<br>
-Title: On the application of the bootstrap.<br>
-2007-2009:  Licentiate of Philosophy, Statistics, SLU.<br>
-  Title: On the variance estimation and a goodness-of-fit using the bootstrap method<br>
-2000-2002: M.Sc, Applied Statistics, SBU.<br>
-1996-2000: B.Sc. Statistics, Razi University.
+2017-: Diploma of Accounting, McGill University<br>
+2014-2015: DVS Field Of Study Accounting, Shadd Business Center <br>
+2009-2013: M.Sc, Computer science, Uppsala.<br>
+2003-2007: B.Sc. Mathematics.
 </p>
 <h3>
-Position
+Experiences:
 </h3>
 <p>
-5/2018-: Associate Research, Polytechnique Montreal, Canada. <br> 
-7/2016-1/2018: Assistant Prof., University of Wisconsin-Green Bay, USA. <br>
-2015-7/2016: Visiting Ass. Prof. University of Iowa, USA.<br>
-2014-2015: Post-Doc University of Nebraska-Lincoln, USA.<br>
-2013-2014: Visiting Scholar. University of Bournemouth.<br>
-2002-2006: Lecturer, UMSHA.
+7/2016-1/2018: Under construction <br>
 </p>
 
 <h3>
 Interests
 </h3>
 <p>
-Computational Statistics<br>
-Statistical Learning<br>
-Literate Programming <br>
-Computer intensive methods <br>
-High dimensional data <br>
-Statistical inference
+Acounting<br>
+Finance<br>
 </p>
 
-<h3>
-Selected talks
-</h3>
-<p>
-<a href="https://stat.uiowa.edu/events/saeid-amiri-colloquium-speaker"> Uiowa:</a> Clustering categorical data via ensembling methods. <br>
-<a href="http://arc.umich.edu/news-events/tag/midas/"> MIDAS:</a> Random Subspace Scientific Inference based on High dimensional data. <br>
-<a> JSM 2015:</a> Clustering of High-Dimensional Categorical Data.
-</p>
 </ul>
