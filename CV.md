@@ -4,7 +4,8 @@ title: CV
 permalink: CV/
 ---
 
-Saeid Amiri has experiences of working in academia and collaborating with non-academic partners. Like many research workers in Statistics, I have been working on different projects related to biostatistics, economy, and ecology. I believe statistics lies at the core of modern applied science, so I would like to define statistics as "The science of doing another sciences". I enjoy programing, and possess expertise in many statistical software, including R, SAS, SPSS, and Eviews. I have experience working with high throughput computing (HTC) to run big projects, and experience with a variety tools and languages, including writing programs in Bash, VBA for Excel, JavaScript, and Python.
+Leila has experiences of working as an accounting technician at SUPA Medical Instrument. My responsibilities was covering wide range from daily tasks such as checking AP to year-end like corresponding to auditors so that I could experience full accounting cycle.
+As an intern, I worked at Far West Accounting and was in charge of entering revenues and expenses in Quick books. After graduation, I am starting to work in Matt&Nat Company as an accountant up to now..
 
 <ul>
 <h3>
@@ -20,11 +21,14 @@ Saeid Amiri has experiences of working in academia and collaborating with non-ac
 Experiences:
 </h3>
 <p>
-7/2016-1/2018: Under construction <br>
+2018 – Present: Accounting Company, Coporate Accountant.<br>
+Jan 2015 – Sep 2018: VEGAN Ltd (Matt&Nat),  Assistant Controller. <br>
+2005 – 2009: SUPA Medical Instrument Company, Accountant.
+ 
 </p>
 
 <h3>
-Interests
+Interests: 
 </h3>
 <p>
 Acounting<br>
