@@ -5,13 +5,13 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Hank Quinlan's Blog</title>
- <link href="http://saeidamiri1.github.io/blog/atom.xml" rel="self"/>
- <link href="http://saeidamiri1.github.io/blog"/>
+ <link href="http://leilaalimehr.github.io/blog/atom.xml" rel="self"/>
+ <link href="http://leilaalimehr.github.io/blog"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://saeidamiri1.github.io/blog</id>
+ <id>http://leilaalimehr.github.io/blog</id>
  <author>
-   <name>Saeid Amiri</name>
-   <email>saeid.amiri1@gmail.com</email>
+   <name>Leila Alimehr</name>
+   <email>leila.alimehr@gmail.com</email>
  </author>
 
  {% for post in site.posts %}
