@@ -3,7 +3,7 @@ title: Cheatsheet for Github
 description: Cheatsheet for Github
 date: 2019-01-02
 author: Leila Alimehr
-published: false
+published: true
 tags: Github  Cheatsheet
 categories: [blog]
 comments: true
