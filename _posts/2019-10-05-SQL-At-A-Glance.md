@@ -2,7 +2,7 @@
 title: SQL At A Glance 
 description: A brief introduction of SQL 
 date: 2019-10-05
-author: Saeid Amiri
+author: Leila Alimehr
 published: true
 tags: SQL R Python
 categories: [blog]
