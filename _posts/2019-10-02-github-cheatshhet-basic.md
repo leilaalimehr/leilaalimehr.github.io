@@ -1,7 +1,7 @@
 ---
 title: Cheatsheet for Github   
 description: Cheatsheet for Github
-date: 2019-01-02
+date: 2019-10-02
 author: Leila Alimehr
 published: true
 tags: Github  Cheatsheet
