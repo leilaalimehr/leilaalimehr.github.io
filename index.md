@@ -22,10 +22,14 @@ If you are interested in collaborating and doing some great work, please reach o
 <br>
 
 
+
 ---
 Leila Alimehr's Blog
 ---
 <h1>{{ page.title }}</h1>
+<h3>Accounting's blog: <a  href="https://leilaalimehr.github.io/accounting/">Accounting</a></h3>
+<br>
+<br>
 <ul class="posts">
 
   {% for post in site.posts %}
